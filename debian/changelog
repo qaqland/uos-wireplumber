@@ -1,3 +1,10 @@
+wireplumber (0.5.14-1deepin7) unstable; urgency=medium
+
+  * Disable BlueZ seat-monitoring to keep Bluetooth audio devices
+    connected when switching between sessions
+
+ -- qaqland <anguoli@uniontech.com>  Mon, 19 Oct 2026 14:15:53 +0800
+
 wireplumber (0.5.14-1deepin6) unstable; urgency=medium
 
   * Migrate WirePlumber configuration snippets from os-config,
